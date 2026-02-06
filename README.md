@@ -74,27 +74,6 @@ This project demonstrates how modern frontend developers build **role-aware inte
 
 ---
 
-## 📂 Project Structure
-
-src/
-├── components/
-│ ├── common/
-│ ├── layout/
-│ └── ui/
-├── pages/
-│ ├── admin/
-│ ├── manager/
-│ ├── employee/
-│ └── Login.jsx
-├── context/
-├── routes/
-├── services/
-├── utils/
-└── App.jsx
-
-
----
-
 ## 🔐 Authentication & Authorization
 
 This project uses **frontend authentication simulation**:
