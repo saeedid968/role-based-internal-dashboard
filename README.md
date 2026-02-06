@@ -1,4 +1,4 @@
-# 🚀 Role-Based Internal Dashboard (React)
+<img width="1152" height="703" alt="Internal-Console-–-Role-Based-Management-System" src="https://github.com/user-attachments/assets/0be7498c-fb0e-4605-8138-7fbff995392d" /># 🚀 Role-Based Internal Dashboard (React)
 
 A professional **role-based internal company dashboard** that simulates real-world enterprise workflows where UI, routes, and permissions change based on user role (Admin, Manager, Employee).
 
@@ -88,7 +88,7 @@ This project uses **frontend authentication simulation**:
 ## 📸 Screenshots
 
 ### Login Screen
-![Login](./screenshots/login.png)
+![Internal Console – Role Based Management System](https://github.com/user-attachments/assets/5f626f58-1424-4d69-b547-c5dce0ba9188)
 
 ### Admin Dashboard
 ![Admin](./screenshots/admin-dashboard.png)
